@@ -1,0 +1,11 @@
+{
+  "errors": {
+    "101": {
+      "code": 101,
+      "name": "Invalid Number!",
+      "type": "type",
+      "description": "10 is an invalid number!",
+      "alius": "invalid_number"
+    }
+  }
+}

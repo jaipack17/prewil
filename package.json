@@ -1,0 +1,19 @@
+{
+  "name": "prewil",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0"
+  },
+  "bin": {
+    "prewil": "./cli.js"
+  }
+}
