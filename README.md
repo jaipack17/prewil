@@ -9,8 +9,5 @@ Move all files from "prewil" folder to your main directory.
 
 ```bash
 $ npm link
-```
-
-```bash
 $ prewil
 ```
